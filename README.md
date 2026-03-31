@@ -14,6 +14,7 @@ Identify top-performing products and regions
 Track profitability trends
 Understand customer purchasing patterns
 Provide actionable insights using visual analytics
+
 🛠️ Tools & Technologies Used
 Power BI Desktop
 Power Query (Data Cleaning & Transformation)
@@ -21,20 +22,25 @@ DAX (Data Analysis Expressions) for calculations
 Data Modeling
 Excel / CSV Dataset (if used as source)
 📊 Key Features / Dashboard Insights
+
 📈 Sales trends over time (Daily / Monthly / Yearly)
+
 🏆 Top & Bottom performing products
+
 💰 Profit vs Sales analysis
+
 🌍 Region-wise / City-wise sales distribution
+
 📦 Quantity sold analysis
+
 🎯 KPI Cards (Total Sales, Profit, Orders, etc.)
+
 🔍 Interactive filters and slicers for dynamic exploration
+
 📂 File Information
 Project1.pbix → Main Power BI dashboard file
-🚀 How to Use
-Download the .pbix file from the repository
-Open it using Power BI Desktop
-Explore different dashboard pages
-Use slicers and filters to interact with the data
+
+
 
 Overview Page
 Sales Trend Analysis
